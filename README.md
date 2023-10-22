@@ -1,13 +1,22 @@
-- 👋 Hi, I’m Kamila Soltynska.
-- 👀 My current learning focus is data visualisation and NLP.
-- 🌱 I’m currently pursing a masters degree in Data Science.
 
-- SKILLS:
-    I am proficient with R, Python, SQL, Prolog, and a range of further languages, and I am knowledgeable about statistical methods, data analysis, and data visualisation.
+# Kamila Soltynska
 
-- Please feel free to explore my repositories to take a look at my skillset and past work. 
+**`DATA SCIENTIST AND ANALYST`**
 
-<!---
-kamila-soltynska/kamila-soltynska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a passionate data scientist and analyst, driven by a profound enthusiasm for problem-solving and the transformative power of data. With extensive experience in data manipulation, analysis, and visualization using tools such as R, Python, SQL, Prolog, and Excel, I bring a wealth of knowledge to the table. My strong foundation in statistics, machine learning, and research methodologies allows me to extract actionable insights from complex datasets. My approach to data science is deeply analytical and detail-oriented. I relish the creative process of uncovering meaningful patterns and trends within data, and I'm dedicated to making a tangible impact through my work.
+
+**What sets me apart** is my ability to bridge the gap between technical and non-technical audiences. I excel in effective communication, making data-driven insights accessible to a wide range of stakeholders. In a data-driven world, I am excited to be a part of the journey to unlock the potential of data.
+
+---
+
+### Languages and Tools
+
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />      
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<br />
+          
